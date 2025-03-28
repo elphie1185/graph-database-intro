@@ -1,0 +1,9 @@
+[project]
+name = "graph-database-intro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "graphdatascience>=1.14",
+]
